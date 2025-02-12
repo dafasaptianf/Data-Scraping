@@ -1,6 +1,6 @@
 # Data-Scraping
 
-In this repository, you'll find methods for scraping data from the website sofascore.com. The code was last tested around August to November 2024. It may require adjustments to the API and IDs for individual matches and players.
+In this repository, you'll find methods for scraping data from the website sofascore.com. The code was last tested around July to August 2024. It may require adjustments to the API and IDs for individual matches and players.
 
 ## Requirements
 
